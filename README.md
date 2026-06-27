@@ -33,8 +33,6 @@ Employee attrition costs companies 6 months of an employee's salary per departur
 ---
 
 ## 📁 Project Structure
-
-## 📁 Project Structure
 ```
 Employee-Attrition-Prediction/
 ├── data/
