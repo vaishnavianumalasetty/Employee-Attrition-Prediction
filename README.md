@@ -145,17 +145,14 @@ Employee-Attrition-Prediction/
 - **Page 2:** Predictive Insights — Risk distribution, top drivers
 - **Page 3:** Retention Recommendations — Action plan + savings
 
-### Dashboard Preview
 #### Page 1 — Attrition Overview
-![Page1](outputs/page1_attrition_overview.png)
+![Page1](page1_attrition_overview.png)
 
 #### Page 2 — Predictive Insights
-![Page2](outputs/page2_predictive_insights.png)
+![Page2](page2_predictive_insights.png)
 
 #### Page 3 — Retention Recommendations
-![Page3](outputs/page3_retention_recommendations.png)
-
----
+![Page3](page3_retention_recommendations.png)
 
 ## ▶️ How to Run
 
